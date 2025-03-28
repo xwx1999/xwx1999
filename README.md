@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Weixi Xiang.
-- 👀 I’m interested in applications of deep learning on animals.
+- 👀 I’m interested in applications of deep learning on agriculture.
 - 🌱 I’m currently learning computer vision for agriculture under the supervise of [Prof. Xiujuan Chai](https://scholar.google.com/citations?hl=zh-CN&user=ZcL91HsAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!---
